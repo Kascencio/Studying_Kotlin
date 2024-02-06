@@ -1,4 +1,4 @@
-package Calcular
+package Studying
  var acro: String = ""
 fun main(){
     println("Bienvenido")
@@ -16,7 +16,7 @@ fun main(){
         acro = "Sr."
     }
     else{
-        println("No puede ser eres un perro")
+        println("Lo siento $acro $nombre necesita rellenar los datos")
     }
 
     println("Menu\n$acro $nombre Ingrese una opción")

@@ -1,4 +1,4 @@
-package Calcular
+package Studying
 
 class Promedio {
     fun main() {
